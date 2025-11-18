@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 My GitHub Stats (Tema Lilac: Outrun)
+### 📊 My GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=outrun&count_private=true" alt="Ica's GitHub Stats" width="48%" />
