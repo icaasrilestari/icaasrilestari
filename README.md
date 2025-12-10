@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 My GitHub Stats ( Lilac: Outrun)
+# 📊 My GitHub Stats ( Lilac: Outrun)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=outrun&count_private=true" alt="Ica's GitHub Stats" width="48%" />
@@ -39,7 +39,21 @@
 
 ---
 
+# 📫 Connect with me
 
+<p align="left">
+  <a href="https://linkedin.com/in/LINK_LINKEDIN_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://instagram.com/USERNAME_INSTAGRAM_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+  <a href="https://icaasrilestari.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portofolio-purple?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Portofolio">
+  </a>
+</p>
 
 
 
