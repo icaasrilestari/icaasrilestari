@@ -12,24 +12,28 @@
 </p>
 
 ---
+## 💻 Things I Code With & Develop
 
-## 🛠️ Tools & Technologies
+![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-Development-553C9A?style=flat&logo=unrealengine)
+![Augmented Reality](https://img.shields.io/badge/Augmented%20Reality-ARKit%2FARCore-E44D26?style=flat&logo=apple)
+![360° Virtual Tour](https://img.shields.io/badge/Virtual%20Tour%20360°-Creator-007ACC?style=flat&logo=google-maps)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/UI/UX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX (Figma)">
-  <img src="https://img.shields.io/badge/Virtual%20Tour-360-blue?style=for-the-badge&logo=google-street-view&logoColor=white" alt="Virtual Tour 360">
-  
-  <br>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Image Editing">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Game 2D">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Animasi">
-</p>
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-Tools-FF69B4?style=flat&logo=figma)
 
+![Construct 2](https://img.shields.io/badge/Construct%202-Engine-5A3289?style=flat&logo=construct)
+![Construct 3](https://img.shields.io/badge/Construct%203-Engine-5A3289?style=flat&logo=construct)
+![GDevelop](https://img.shields.io/badge/GDevelop-Platform-000000?style=flat&logo=gdevelop)
 ---
+## 🎨 Creative Tools & Marketing Skills
 
-# 📊 My GitHub Stats ( Lilac: Outrun)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
+![Editing](https://img.shields.io/badge/Video%20Editing-Software-AA00FF?style=flat&logo=adobe-premiere-pro)
+
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-Strategy-FE6A33?style=flat&logo=google-analytics)
+
+# # #  📊 My GitHub Stats ( Lilac: Outrun)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=outrun&count_private=true" alt="Ica's GitHub Stats" width="48%" />
