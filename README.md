@@ -1,55 +1,86 @@
-# 👋 Hi everyone, I'm Ica Asri Lestari 🌟
-> Nice to see you. Saya seorang pengembang dan kreator yang berfokus pada **Pengalaman Imersif (VT/VR/AR/360°)**, **Gamifikasi**, dan **Desain Antarmuka (UI/UX)**.
+<h1 align="center">
+  <img src="https://media.giphy.com/media/2Qn5oY8wQ24G2hN79E/giphy.gif" width="40"> Hi everyone, I'm Ica Asri Lestari 🌟
+</h1>
+
+<p align="center">
+  <samp>
+    👋 Hey! Nice to see you.
+    <br/>
+    Saya seorang pengembang dan kreator yang berfokus pada **Pengalaman Imersif (VT/VR/AR/360°)**, **Gamifikasi**, dan **Desain Antarmuka (UI/UX)**.
+  </samp>
+</p>
 
 ---
 
-## 💻 Things I Code With & Tools I Master
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-Principles-FFD700?style=flat&logo=figma&logoColor=black)
-![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-553C9A?style=flat&logo=unrealengine&logoColor=white)
-![Augmented Reality](https://img.shields.io/badge/Augmented%20Reality-FF69B4?style=flat&logo=apple&logoColor=white)
-![Virtual Tour 360°](https://img.shields.io/badge/Virtual%20Tour%20360°-007ACC?style=flat&logo=google-maps&logoColor=white)
-![Construct 2](https://img.shields.io/badge/Construct%202-5A3289?style=flat&logo=construct&logoColor=white)
-![Construct 3](https://img.shields.io/badge/Construct%203-5A3289?style=flat&logo=construct&logoColor=white)
-![GDevelop](https://img.shields.io/badge/GDevelop-Platform-000000?style=flat&logo=gdevelop&logoColor=white)
-
-
-### 🌐 Keahlian Imersif (VR/AR/360°) & Game Development
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-Principles-FFD700?style=flat&logo=figma&logoColor=black)
-![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-553C9A?style=flat&logo=unrealengine&logoColor=white)
-![Augmented Reality](https://img.shields.io/badge/Augmented%20Reality-FF69B4?style=flat&logo=apple&logoColor=white)
-![Virtual Tour 360°](https://img.shields.io/badge/Virtual%20Tour%20360°-007ACC?style=flat&logo=google-maps&logoColor=white)
-![Construct 2](https://img.shields.io/badge/Construct%202-5A3289?style=flat&logo=construct&logoColor=white)
-![Construct 3](https://img.shields.io/badge/Construct%203-5A3289?style=flat&logo=construct&logoColor=white)
-![GDevelop](https://img.shields.io/badge/GDevelop-Platform-000000?style=flat&logo=gdevelop&logoColor=white)
-
-
-### 📸 Creative Tools & Marketing Skills
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
-![Editing](https://img.shields.io/badge/Video%2FPhoto%20Editing-AA00FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-Strategy-FE6A33?style=flat&logo=google-analytics&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=icaasrilestari&theme=nord&no-bg=true" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-## 📝 My latest posts 
+## 🛠️ Things I Code With & Tools I Master
 
-https://smk-assalam-virtual-tour.vercel.app/
-http://localhost:50060/
+Menampilkan keahlian Anda dengan *badge* yang rapi:
+
+### 🌐 Web & Imersif Development
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Virtual%20Tour%20360°-007ACC?style=flat&logo=google-maps&logoColor=white" alt="Virtual Tour 360° Badge"/>
+    <img src="https://img.shields.io/badge/Virtual%20Reality-553C9A?style=flat&logo=unrealengine&logoColor=white" alt="Virtual Reality Badge"/>
+    <img src="https://img.shields.io/badge/Augmented%20Reality-FF69B4?style=flat&logo=apple&logoColor=white" alt="Augmented Reality Badge"/>
+</p>
+
+### 🎮 Game Development & Tools
+<p>
+    <img src="https://img.shields.io/badge/Construct%202-5A3289?style=flat&logo=construct&logoColor=white" alt="Construct 2 Badge"/>
+    <img src="https://img.shields.io/badge/Construct%203-5A3289?style=flat&logo=construct&logoColor=white" alt="Construct 3 Badge"/>
+    <img src="https://img.shields.io/badge/GDevelop-000000?style=flat&logo=gdevelop&logoColor=white" alt="GDevelop Badge"/>
+</p>
+
+### 🎨 Creative, Design & Marketing Skills
+<p>
+    <img src="https://img.shields.io/badge/UI%2FUX%20Design-FFD700?style=flat&logo=figma&logoColor=black" alt="UI/UX Design Badge"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop Badge"/>
+    <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom Badge"/>
+    <img src="https://img.shields.io/badge/Video%2FPhoto%20Editing-AA00FF?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Editing Badge"/>
+    <img src="https://img.shields.io/badge/Digital%20Marketing-Strategy-FE6A33?style=flat&logo=google-analytics&logoColor=white" alt="Digital Marketing Badge"/>
+</p>
+
 ---
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Stats
 
-Untuk menampilkan grafik kontribusi dan *skill* yang dinamis (ganti `YOUR_USERNAME`):
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=vue&hide_border=true&rank_icon=github" alt="Ica Asri Lestari GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaasrilestari&layout=compact&theme=vue&hide_border=true" alt="Top Languages"/>
+</p>
 
-[![Ica Asri Lestari GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=default&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📝 My Latest Posts (Opsional)
+
+> Bagian ini harus diisi manual dengan tautan ke blog atau Medium Anda.
+
+* [New] **Cara Membuat Smart Contract Pertama Anda dengan Remix IDE**
+* **Pro Tips untuk Memulai Proyek Sampingan Anda**
+* **Struktur Aplikasi React yang Baik**
 
 ---
 
 ## 🔗 Where to find me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icaasrilestari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganti-dengan-tautan-linkedin-anda)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ganti-dengan-tautan-medium-anda)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ganti-dengan-tautan-twitter-anda)
+<p>
+    <a href="https://linkedin.com/in/[GANTI DENGAN DATA ANDA]">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://medium.com/@ganti-dengan-tautan-medium-anda">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+    <a href="https://twitter.com/[GANTI DENGAN DATA ANDA]">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="[GANTI DENGAN TAUTAN WEBSITE PRIBADI ANDA]">
+        <img src="https://img.shields.io/badge/Website%2FPortofolio-E91E63?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"/>
+    </a>
+</p>
