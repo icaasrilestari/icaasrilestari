@@ -22,17 +22,13 @@
 
 Menampilkan keahlian Anda dengan *badge* yang rapi:
 
-### 🌐 Web & Imersif Development
+### Imersif Development
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge"/>
     <img src="https://img.shields.io/badge/Virtual%20Tour%20360°-007ACC?style=flat&logo=google-maps&logoColor=white" alt="Virtual Tour 360° Badge"/>
     <img src="https://img.shields.io/badge/Virtual%20Reality-553C9A?style=flat&logo=unrealengine&logoColor=white" alt="Virtual Reality Badge"/>
     <img src="https://img.shields.io/badge/Augmented%20Reality-FF69B4?style=flat&logo=apple&logoColor=white" alt="Augmented Reality Badge"/>
-</p>
-
-### 🎮 Game Development & Tools
-<p>
     <img src="https://img.shields.io/badge/Construct%202-5A3289?style=flat&logo=construct&logoColor=white" alt="Construct 2 Badge"/>
     <img src="https://img.shields.io/badge/Construct%203-5A3289?style=flat&logo=construct&logoColor=white" alt="Construct 3 Badge"/>
     <img src="https://img.shields.io/badge/GDevelop-000000?style=flat&logo=gdevelop&logoColor=white" alt="GDevelop Badge"/>
@@ -58,13 +54,9 @@ Menampilkan keahlian Anda dengan *badge* yang rapi:
 ](https://github.com/icaasrilestari)
 ---
 
-## 📝 My Projek
-https://smk-assalam-virtual-tour.vercel.app
-http://localhost:50060/
-
-
-* [New] **Cara Membuat Smart Contract Pertama Anda dengan Remix IDE**
-* **Pro Tips untuk Memulai Proyek Sampingan Anda**
+## 📝 My Proyek
+* **https://smk-assalam-virtual-tour.vercel.app)**
+* **http://localhost:50060/**
 * **Struktur Aplikasi React yang Baik**
 
 ---
@@ -72,7 +64,7 @@ http://localhost:50060/
 ## 🔗 Where to find me
 
 <p>
-    <a href="https://linkedin.com/in/[GANTI DENGAN DATA ANDA]">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ica-asri-lestari-aa2799394/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://medium.com/@ganti-dengan-tautan-medium-anda">
