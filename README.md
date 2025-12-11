@@ -46,8 +46,8 @@
 https://github.com/icaasrilestari
 
 #### 📝 My Proyek
-* **https://smk-assalam-virtual-tour.vercel.app)**
-* **http://localhost:50060/**
+* **https://smk-assalam-virtual-tour.vercel.app**
+* http://localhost:50060/
 * **Struktur Aplikasi React yang Baik**
 
 ---
