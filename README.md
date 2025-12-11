@@ -18,11 +18,7 @@
 
 ---
 
-## 🛠️ Things I Code With & Tools I Master
-
-Menampilkan keahlian Anda dengan *badge* yang rapi:
-
-### Imersif Development
+# # # 🛠️ Things I Code With & Tools I Master
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge"/>
