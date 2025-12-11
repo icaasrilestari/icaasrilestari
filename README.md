@@ -18,7 +18,7 @@
 
 ---
 
-###### 🛠️ Things I Code With & Tools I Master
+#### 🛠️ Things I Code With & Tools I Master
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge"/>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/GDevelop-000000?style=flat&logo=gdevelop&logoColor=white" alt="GDevelop Badge"/>
 </p>
 
-### 🎨 Creative, Design & Marketing Skills
+#### 🎨 Creative, Design & Marketing Skills
 <p>
     <img src="https://img.shields.io/badge/UI%2FUX%20Design-FFD700?style=flat&logo=figma&logoColor=black" alt="UI/UX Design Badge"/>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop Badge"/>
@@ -41,18 +41,18 @@
 
 ---
 
-## 📊 My GitHub Stats
+#### 📊 My GitHub Stats
 
 https://github.com/icaasrilestari
 
-## 📝 My Proyek
+#### 📝 My Proyek
 * **https://smk-assalam-virtual-tour.vercel.app)**
 * **http://localhost:50060/**
 * **Struktur Aplikasi React yang Baik**
 
 ---
 
-## 🔗 Where to find me
+#### 🔗 Where to find me
 
 <p>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/ica-asri-lestari-aa2799394/">
