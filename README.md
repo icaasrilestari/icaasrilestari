@@ -1,9 +1,9 @@
-## Hi everyone, I'm Ica Asri Lestari 👋
+ # # #Hi everyone, I'm Ica Asri Lestari 👋
 
-## 😎 Hey! Nice to see you.
+😎 Hey! Nice to see you.
 
-Saya **[Ica Asri Lestari]**, seorang pengembang dan kreator yang berfokus pada **Pengalaman Imersif (VR/AR/360°)** dan **Desain Antarmuka (UI/UX)**. 
----
+Saya [Ica Asri Lestari], seorang pengembang dan kreator yang berfokus pada Pengalaman Imersif (VT/VR/AR/360°),Gamifikasi dan Desain Antarmuka (UI/UX)**. 
+
 
 ## 🛠️ Things I Code With & Tools I Master
 
@@ -31,16 +31,10 @@ Menampilkan *badge* yang mewakili keahlian teknis, kreatif, dan pemasaran saya:
 ---
 
 ## 📊 My GitHub Stats
-
-Untuk menampilkan kontribusi dan statistik seperti di contoh (Opsional: Anda perlu mengganti `YOUR_GITHUB_USERNAME` dengan nama pengguna Anda):
-
-[![An image showing your GitHub contribution graph and stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+https://github.com/icaasrilestari
 ---
 
 ## 🔗 Where to find me
-
-Tambahkan tautan ke profil profesional Anda:
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganti-dengan-tautan-linkedin-anda)
 [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ganti-dengan-tautan-medium-anda)
