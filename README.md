@@ -47,6 +47,7 @@ https://github.com/icaasrilestari
 
 #### 📝 My Proyek
 * **https://smk-assalam-virtual-tour.vercel.app**
+* **https://vercel.com/ica-asri-lestaris-projects/bird-shop-website**
 * http://localhost:50060/
 * **Struktur Aplikasi React yang Baik**
 
