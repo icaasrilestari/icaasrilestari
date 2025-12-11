@@ -6,7 +6,7 @@
   <samp>
     👋 Hey! Nice to see you.
     <br/>
-    Saya seorang pengembang dan kreator yang berfokus pada **Pengalaman Imersif (VT/VR/AR/360°)**, **Gamifikasi**, dan **Desain Antarmuka (UI/UX)**.
+    Saya seorang pengembang dan kreator yang berfokus pada pengalaman Imersif Web, Virtual Tour 360,Virtual Reality,Augmenetd Reality, Gamifikasi, dan Desain Antarmuka.
   </samp>
 </p>
 
@@ -47,12 +47,7 @@ Menampilkan keahlian Anda dengan *badge* yang rapi:
 
 ## 📊 My GitHub Stats
 
-[<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=vue&hide_border=true&rank_icon=github" alt="Ica Asri Lestari GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaasrilestari&layout=compact&theme=vue&hide_border=true" alt="Top Languages"/>
-</p>
-](https://github.com/icaasrilestari)
----
+https://github.com/icaasrilestari
 
 ## 📝 My Proyek
 * **https://smk-assalam-virtual-tour.vercel.app)**
