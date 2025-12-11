@@ -51,16 +51,17 @@ Menampilkan keahlian Anda dengan *badge* yang rapi:
 
 ## 📊 My GitHub Stats
 
-<p align="center">
+[<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=vue&hide_border=true&rank_icon=github" alt="Ica Asri Lestari GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaasrilestari&layout=compact&theme=vue&hide_border=true" alt="Top Languages"/>
 </p>
-
+](https://github.com/icaasrilestari)
 ---
 
-## 📝 My Latest Posts (Opsional)
+## 📝 My Projek
+https://smk-assalam-virtual-tour.vercel.app
+http://localhost:50060/
 
-> Bagian ini harus diisi manual dengan tautan ke blog atau Medium Anda.
 
 * [New] **Cara Membuat Smart Contract Pertama Anda dengan Remix IDE**
 * **Pro Tips untuk Memulai Proyek Sampingan Anda**
