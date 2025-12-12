@@ -6,7 +6,7 @@
   <samp>
     👋 Hey! Nice to see you.
     <br/>
-    Saya seorang pengembang dan kreator yang berfokus pada pengalaman Imersif Web, Virtual Tour 360,Virtual Reality,Augmenetd Reality, Gamifikasi, dan Desain Antarmuka.
+  I am a developer and creator focusing on Immersive Web experiences, 360 Virtual Tours, Virtual Reality, Augmented Reality, Gamification, and Interface Design.
   </samp>
 </p>
 
