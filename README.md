@@ -46,7 +46,7 @@
 https://github.com/icaasrilestari
 
 #### 📝 My Proyek
-* **https://five-rose.vercel.app/**
+* **https://ica-asri-lestari-wng.vercel.app/)**
 * **https://smk-assalam-virtual-tour.vercel.app**
 * **https://bird-shop-website.vercel.app/#**
 * http://localhost:50060/
