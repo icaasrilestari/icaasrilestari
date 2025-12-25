@@ -46,7 +46,9 @@
 https://github.com/icaasrilestari
 
 #### 📝 My Proyek
-* **https://ica-asri-lestari-wng.vercel.app/)**
+* **https://ica-asri-lestari-wng.vercel.app/**
+* **https://bird-shop-website-21lc.vercel.app/**
+* **https://kalkulator-blackpink.vercel.app/**
 * **https://smk-assalam-virtual-tour.vercel.app**
 * **https://bird-shop-website.vercel.app/#**
 * http://localhost:50060/
