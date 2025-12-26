@@ -1,29 +1,5 @@
-Tentu! Mari kita ganti tema kartu statistik GitHub Anda ke tema yang lebih cerah atau sesuai selera, sambil memastikan semua ikon sudah benar.
 
-Saat ini, kartu statistik Anda menggunakan tema **Nord**.
-
-```markdown
-  <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Ica Asri Lestari GitHub Stats"/>
-
-```
-
-Beberapa tema populer lainnya yang bisa Anda coba:
-
-| Tema | Contoh Warna | Kode Tema |
-| --- | --- | --- |
-| **Dark** | Hitam & Putih klasik | `dark` |
-| **Dracula** | Ungu, Pink, Hitam (populer) | `dracula` |
-| **Radical** | Gradien Neon Ceria | `radical` |
-| **Monokai** | Abu-abu, Kuning, Merah | `monokai` |
-| **Outrun** | Biru, Ungu, Pink (Gaya 80-an) | `outrun` |
-
----
-
-## 🎨 Kode Profil dengan Tema Kartu Baru (Pilih Tema)
-
-Saya akan menggunakan tema **Dracula** sebagai contoh, karena ini adalah tema yang sangat populer untuk estetika yang bagus di GitHub.
-
-### 📜 Kode Sumber (Tema Dracula)
+### 📜 Kode Sumber `README.md` (Tema Lilac + Banyak Skill)
 
 ```markdown
 <h1 align="center">
@@ -47,7 +23,7 @@ Saya akan menggunakan tema **Dracula** sebagai contoh, karena ini adalah tema ya
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=icaasrilestari&theme=dracula&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=icaasrilestari&theme=modern-lilac&no-bg=true" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -60,18 +36,26 @@ Saya akan menggunakan tema **Dracula** sebagai contoh, karena ini adalah tema ya
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img alt="Adobe Animate" src="https://img.shields.io/badge/Adobe%20Animate-FF9900?style=for-the-badge&logo=adobe-animate&logoColor=white"/>
+  <img alt="UI/UX Design" src="https://img.shields.io/badge/UI%2FUX%20Design-FFD700?style=for-the-badge&logo=figma&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <p align="center">
-
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
-  <img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-5A3289?style=for-the-badge&logo=construct-3&logoColor=white"/>
+  <img alt="Construct 2" src="https://img.shields.io/badge/Construct%202-5A3289?style=for-the-badge&logo=construct&logoColor=white"/>
   <img alt="GDevelop" src="https://img.shields.io/badge/GDevelop-000000?style=for-the-badge&logo=gdevelop&logoColor=white"/>
-  <img alt="Virtual Reality" src="https://img.shields.io/badge/Virtual%20Reality-64157F?style=for-the-badge&logo=oculus&logoColor=white"/>
+  <img alt="Virtual Reality (3D Vista)" src="https://img.shields.io/badge/3D%20Vista-008CBA?style=for-the-badge&logo=oculus&logoColor=white"/>
   <img alt="Augmented Reality" src="https://img.shields.io/badge/Augmented%20Reality-FF69B4?style=for-the-badge&logo=arkit&logoColor=white"/>
-  <img alt="Digital Marketing" src="https://img.shields.io/badge/Digital%20Marketing-FE6A33?style=for-the-badge&logo=google-ads&logoColor=white"/>
+  <img alt="Gamification" src="https://img.shields.io/badge/Gamification-FE6A33?style=for-the-badge&logo=gamefaqs&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img alt="Adobe Animate" src="https://img.shields.io/badge/Adobe%20Animate-FF9900?style=for-the-badge&logo=adobe-animate&logoColor=white"/>
+  <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+  <img alt="Video/Photo Editing" src="https://img.shields.io/badge/Video%2FPhoto%20Editing-AA00FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+  <img alt="Digital Marketing" src="https://img.shields.io/badge/Digital%20Marketing-Strategy-FE6A33?style=for-the-badge&logo=google-ads&logoColor=white"/>
+  <img alt="SEO" src="https://img.shields.io/badge/SEO-191970?style=for-the-badge&logo=google-search&logoColor=white"/>
 </p>
 
 ---
@@ -79,20 +63,23 @@ Saya akan menggunakan tema **Dracula** sebagai contoh, karena ini adalah tema ya
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Ica Asri Lestari GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=modern-lilac&hide_border=true&count_private=true" alt="Ica Asri Lestari GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icaasrilestari&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icaasrilestari&theme=modern-lilac&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🚀 My Projects
 
-* **[Portfolio Website](https://ica-asri-lestari-profile.vercel.app/)**
-* **[Blackpink Calculator](https://kalkulator-blackpink.vercel.app/)**
-* **[SMK Assalam Virtual Tour (360°)](https://smk-assalam-virtual-tour.vercel.app)**
-* **[Bird Shop Website](https://bird-shop-website-21lc.vercel.app/)**
-* **[Bird Shop Website (Lainnya)](https://bird-shop-website.vercel.app/#)**
+<p>
+  * **[Portfolio Website](https://ica-asri-lestari-profile.vercel.app/)**
+  * **[SMK Assalam Virtual Tour (360°)](https://smk-assalam-virtual-tour.vercel.app)**
+  * **[Blackpink Calculator](https://kalkulator-blackpink.vercel.app/)**
+  * **[Bird Shop Website (E-Commerce)](https://bird-shop-website-21lc.vercel.app/)**
+  * **[Bird Shop Website (Old)](https://bird-shop-website.vercel.app/#)**
+  * *Tautan localhost dihapus karena tidak dapat diakses publik.*
+</p>
 
 ---
 
@@ -116,8 +103,6 @@ Saya akan menggunakan tema **Dracula** sebagai contoh, karena ini adalah tema ya
     </a>
 </p>
 
----
-
-**Apakah Anda ingin mencoba tema lain untuk kartu statistik GitHub Anda, atau kode ini sudah sesuai dengan keinginan Anda?**
+Jika Anda ingin melihat pratinjau tema Lilac, Anda bisa mencari "GitHub Readme Stats modern-lilac theme" secara online.
 
 ```
