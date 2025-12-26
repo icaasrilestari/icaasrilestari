@@ -1,6 +1,8 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/2Qn5oY8wQ24G2hN79E/giphy.gif" width="40"> Hi everyone, I'm Ica Asri Lestari 🌟
 </h1>
+ <img src="[https://giphy.com/gifs/dinosaur-vrKUtJNMtB3Y4]" width="40"> Hi everyone, I'm Ica Asri Lestari 🌟
+</h1>https://giphy.com/gifs/dinosaur-vrKUtJNMtB3Y4
 
 <p align="center">
   <samp>
