@@ -13,7 +13,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=icaasrilestari&theme=dracula&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-1395b6ded5ad.gif" alt="Dino Walk Animation" width="100"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=icaasrilestari&theme=modern-lilac&no-bg=true" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -34,7 +40,7 @@
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
   <img alt="Construct 2" src="https://img.shields.io/badge/Construct%202-5A3289?style=for-the-badge&logo=construct&logoColor=white"/>
   <img alt="GDevelop" src="https://img.shields.io/badge/GDevelop-000000?style=for-the-badge&logo=gdevelop&logoColor=white"/>
-  <img alt="Virtual Reality (3D Vista)" src="https://img.shields.io/badge/3D%20Vista-008CBA?style=for-the-badge&logo=oculus&logoColor=white"/>
+  <img alt="3D Vista" src="https://img.shields.io/badge/3D%20Vista-008CBA?style=for-the-badge&logo=oculus&logoColor=white"/>
   <img alt="Augmented Reality" src="https://img.shields.io/badge/Augmented%20Reality-FF69B4?style=for-the-badge&logo=arkit&logoColor=white"/>
   <img alt="Gamification" src="https://img.shields.io/badge/Gamification-FE6A33?style=for-the-badge&logo=gamefaqs&logoColor=white"/>
 </p>
@@ -53,11 +59,9 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Ica Asri Lestari GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icaasrilestari&show_icons=true&theme=modern-lilac&hide_border=true&count_private=true" alt="Ica Asri Lestari GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaasrilestari&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icaasrilestari&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icaasrilestari&theme=modern-lilac&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -93,12 +97,3 @@
         <img src="https://img.shields.io/badge/Website%2FPortofolio-E91E63?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"/>
     </a>
 </p>
-
----
-
-**Langkah Selanjutnya:**
-
-1.  Salin dan tempel kode di atas ke file `README.md` repositori profil GitHub Anda.
-2.  Untuk mendapatkan tampilan persis seperti Gambar Keempat (tema gelap), **pastikan Anda mengatur tampilan (theme) GitHub Anda ke Dark Mode** di pengaturan akun.
-
-Apakah Anda ingin saya memberikan detail tentang cara mengubah tema GitHub Anda ke Dark Mode?
