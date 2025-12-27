@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ica Asri Lestari 🌸</h1>
+<h1 align="center">Hi, I'm Ica Asri Lestari 💜</h1>
 <h3 align="center">Creative Multimedia & Web Developer</h3>
 
 <p align="center">
@@ -36,12 +36,12 @@ that are not only functional but also **aesthetic and fun** 🌷
   <img src="assets/html.png" width="55"/>
   <img src="assets/css.png" width="55"/>
   <img src="assets/figma.png" width="55"/>
-  <img src="assets/3dvista.png" width="55"/>
+  <img src="assets/vista3d.png" width="55"/>
   <img src="assets/construct2.png" width="55"/>
+  <img src="assets/gdevelop.png" width="55"/>
 </p>
 
 <p align="center">
-  <img src="assets/gdevelop.png" width="55"/>
   <img src="assets/photoshop.png" width="55"/>
   <img src="assets/animate.png" width="55"/>
   <img src="assets/lightroom.png" width="55"/>
@@ -49,7 +49,6 @@ that are not only functional but also **aesthetic and fun** 🌷
 </p>
 
 ---
-
 ## 🚀 My Projects
 - 🌐 **Personal Portfolio**  
   https://ica-asri-lestari-profile.vercel.app/
