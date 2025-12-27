@@ -29,23 +29,24 @@ I enjoy combining **technology + creativity** to make digital products  
 that are not only functional but also **aesthetic and fun** 🌷
 
 ---
+---
 ## 💜 Skill & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,figma" />
   
     <img src="https://img.shields.io/badge/3D_Vista-FFFFFF?style=for-the-badge&logo=3dvista&logoColor=222222&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Construct%202-7B2CBF?style=for-the-badge&logo=construct&logoColor=FFFFFF&labelColor=7B2CBF"/>
+  <img src="https://img.shields.io/badge/Construct_2-000000?style=for-the-badge&logo=construct&logoColor=FFFFFF&labelColor=000000"/>
 </p>
 
 <p align="center">
-    
     <img src="https://img.shields.io/badge/GDevelop-5C2CBF?style=for-the-badge&logo=gdevelop&logoColor=FFFFFF"/>
 
     <img src="https://skillicons.dev/icons?i=ps,animate,lightroom" />
   
     <img src="https://img.shields.io/badge/Digital_Marketing-FF7EB3?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF&labelColor=FF7EB3"/>
 </p>
+---
 
 ---
 ## 🚀 My Projects
