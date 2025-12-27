@@ -32,22 +32,23 @@ that are not only functional but also **aesthetic and fun** 🌷
 ## 💜 Skill & Tools
 
 <p align="center">
-  <img src="assets/vscode.png" width="55"/>
-  <img src="assets/html.png" width="55"/>
-  <img src="assets/css.png" width="55"/>
-  <img src="assets/figma.png" width="55"/>
-  <img src="assets/vista3d.png" width="55"/>
-  <img src="assets/construct2.png" width="55"/>
-  <img src="assets/gdevelop.png" width="55"/>
+  <!-- Core Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,figma,photoshop" />
 </p>
 
 <p align="center">
-  <img src="assets/photoshop.png" width="55"/>
-  <img src="assets/animate.png" width="55"/>
-  <img src="assets/lightroom.png" width="55"/>
-  <img src="assets/digital-marketing.png" width="55"/>
+  <!-- Multimedia & Game -->
+  <img src="https://img.shields.io/badge/Adobe_Animate-FF4B4B?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3D_Vista-6C5CE7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Construct_2-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GDevelop-222222?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <!-- Marketing -->
+  <img src="https://img.shields.io/badge/Digital_Marketing-E84393?style=for-the-badge"/>
+</p>
 ---
 ## 🚀 My Projects
 - 🌐 **Personal Portfolio**  
