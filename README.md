@@ -37,25 +37,18 @@ that are not only functional but also *aesthetic and fun* 🌷
 </p>
 
 <p align="center">
-  <!-- Adobe -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
-  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_Animate_CC_icon.svg"/>
-  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Lightroom_CC_logo.svg"/>
+  <!-- Multimedia & Game -->
+  <img src="https://img.shields.io/badge/Adobe_Animate-FF4B4B?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3D_Vista-6C5CE7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Construct_2-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GDevelop-222222?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <!-- Game & Multimedia -->
-  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Construct_2_Logo.svg"/>
-  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GDevelop_logo.svg"/>
-  <img height="45" src="https://www.3dvista.com/wp-content/uploads/2022/01/3dvista-logo.svg"/>
+  <!-- Marketing -->
+  <img src="https://img.shields.io/badge/Digital_Marketing-E84393?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <!-- Digital Marketing -->
-  <img height="45" src="https://cdn-icons-png.flaticon.com/512/1968/1968666.png"/>
-</p>
-
-
 ---
 ## 🚀 My Projects
 
