@@ -32,23 +32,20 @@ that are not only functional but also *aesthetic and fun* 🌷
 ## 💜 Skill & Tools
 
 <p align="center">
-  <!-- Core Tools -->
   <img src="https://skillicons.dev/icons?i=vscode,html,css,figma,photoshop" />
 </p>
-
 <p align="center">
-  <!-- Multimedia & Game -->
-  <img src="https://img.shields.io/badge/Adobe_Animate-FF4B4B?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Animate-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/3D_Vista-6C5CE7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Construct_2-4A90E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GDevelop-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Construct_2-0099FF?style=for-the-badge&logo=construct3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDevelop-222222?style=for-the-badge&logo=gdevelop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3D_Vista-6C5CE7?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital_Marketing-FF2D95?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
-<p align="center">
-  <!-- Marketing -->
-  <img src="https://img.shields.io/badge/Digital_Marketing-E84393?style=for-the-badge"/>
-</p>
+
 ---
 ## 🚀 My Projects
 
