@@ -29,28 +29,28 @@ I enjoy combining **technology + creativity** to make digital products
 that are not only functional but also **aesthetic and fun** 🌷
 
 ---
+---
 ## 💜 Skill & Tools
 
 <p align="center">
-  <!-- Core Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,figma,photoshop" />
 </p>
 
 <p align="center">
-  <!-- Multimedia & Game -->
-  <img src="https://img.shields.io/badge/Adobe_Animate-FF4B4B?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/3D_Vista-6C5CE7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Construct_2-4A90E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GDevelop-222222?style=for-the-badge"/>
+    <img src="https://skillicons.dev/icons?i=animate,lightroom" />
+  <img src="https://img.shields.io/badge/3D_Vista-FFFFFF?style=for-the-badge&logo=3dvista&logoColor=222222&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Construct%202-000000?style=for-the-badge&logo=construct&logoColor=FFFFFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GDevelop-5C2CBF?style=for-the-badge&logo=gdevelop&logoColor=FFFFFF"/>
 </p>
 
 <p align="center">
-  <!-- Marketing -->
-  <img src="https://img.shields.io/badge/Digital_Marketing-E84393?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Digital%20Marketing-FF5733?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF&labelColor=FF5733"/>
 </p>
 ---
+
+---
 ## 🚀 My Projects
+
 - 🌐 **Personal Portfolio**  
   https://ica-asri-lestari-profile.vercel.app/
 
