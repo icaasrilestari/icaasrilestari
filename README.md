@@ -22,7 +22,7 @@
 
 ## ✨ About Me
 Hi! I’m Ica Asri Lestari, a Creative Multimedia & Web Developer with a strong passion for building
-immersive digital experiences — including websites, UI?UX design, editing,
+immersive digital experiences — including websites, UI/UX design, editing,
 Augmented Reality, Virtual Tours, and Gamification.
 
 I specialize in blending technology and creativity to craft digital products
@@ -51,6 +51,7 @@ I’m highly motivated, detail-oriented, and open to remote opportunities, where
   <!-- Marketing -->
   <img src="https://img.shields.io/badge/Digital_Marketing-E84393?style=for-the-badge"/>
 </p>
+
 ---
 ## 🚀 My Projects
 
