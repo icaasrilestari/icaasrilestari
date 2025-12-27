@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ica Asri Lestari 💜</h1>
+<h1 align="center">Hi, I'm 𝓘𝓬𝓪 𝓐𝓼𝓻𝓲 𝓛𝓮𝓼𝓽𝓪𝓻𝓲 </h1>
 <h3 align="center">Creative Multimedia & Web Developer</h3>
 
 <p align="center">
@@ -21,12 +21,14 @@
 ---
 
 ## ✨ About Me
-Hi! I’m *Ica Asri Lestari*, an Informatics Engineering student who loves creating  
-*immersive digital experiences* — from websites, UI/UX, animation,  
-to *Augmented Reality, Virtual Tours, and Gamification*.
+Hi! I’m Ica Asri Lestari, a Creative Multimedia & Web Developer with a strong passion for building
+immersive digital experiences — including websites, UI?UX design, editing,
+Augmented Reality, Virtual Tours, and Gamification.
 
-I enjoy combining *technology + creativity* to make digital products  
-that are not only functional but also *aesthetic and fun* 🌷
+I specialize in blending technology and creativity to craft digital products
+that are not only functional, but also visually engaging, user-friendly, and impactful.
+
+I’m highly motivated, detail-oriented, and open to remote opportunities, where I can collaborate with teams, contribute creative solutions, and continuously grow as a digital professional ✨
 
 ---
 ## 💜 Skill & Tools
